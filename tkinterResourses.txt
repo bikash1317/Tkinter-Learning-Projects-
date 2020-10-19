@@ -1,0 +1,3 @@
+1st -- For tkinter go to tkinter python docs and learn about tkinter 
+2nd -- effbot.org
+3rd -- tkDocs
